@@ -16,7 +16,7 @@ def get_requirements(filepath)->List[str]:
 
 
 setup(
-name='mlproject',
+name='venv',
 version=0.01,
 author='Vinay',
 author_email='Vinaykumar3414.maturi@gmail.com',
